@@ -14,22 +14,23 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your bot token, Get it from @Botfather.",
-      "value": ""
+      "value": "6381812455:AAGzkFm4b1mRByrr0BH8cR4kjhUHBQlU7sw"
     },
     "APP_ID": {
       "description": "Get this value from https://telegram.dog/ShadowScrapperBot",
-      "value": ""
+      "value": "28374181"
     },
     "API_HASH": {
       "description": "Get this value from https://telegram.dog/ShadowScrapperBot",
-      "value": ""
+      "value": "00b7ca7f535e816590db39e76f85d0c7"
     },
     "OWNER_ID": {
       "description": "Owner userid to use for getting logs..",
-      "value": ""
+      "value": "28374181"
     },
     "OWNER_USERNAME": {
       "description": "(Optional)Owners username to use at start msg button..",
+      "value": "SIAmKira",
       "required": false
     },
     "CUSTOM_CAPTION": {
